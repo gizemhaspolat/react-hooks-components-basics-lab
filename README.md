@@ -55,5 +55,4 @@ where you can see one possible solution to this lesson.
 
 - [React Components](https://reactjs.org/docs/components-and-props.html)
 
-[solution branch]:
-  https://github.com/learn-co-curriculum/react-hooks-running-tests/tree/solution
+[solution branch]: https://github.com/learn-co-curriculum/react-hooks-running-tests/tree/solution
